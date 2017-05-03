@@ -1,0 +1,8 @@
+[package]
+name = "avg_dist_square"
+version = "0.1.0"
+authors = ["Steven Knight <steven@knight.cx>"]
+
+[dependencies]
+rand = "0.3"
+
